@@ -1,1 +1,2 @@
 This was my attempt to create some tests.
+It was learning project.
